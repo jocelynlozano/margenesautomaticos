@@ -1,0 +1,16 @@
+p{
+    border: 16px solid yellow;
+    width:210px;
+    height: 210px;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+}
+.derecha{
+    margin-left: 500px;
+    text-align: left;
+}
